@@ -1,0 +1,21 @@
+[
+{
+    "modid": "InitialMod",
+    "name": "Initial Mod",
+    "description": "Learning the basics following Pahimar's Let's Mod Reboot YouTube series",
+    "version": "1.0",
+    "mcversion": "1.7.10",
+    "url": "",
+    "updateUrl": "",
+    "authorList": [
+        "looneyr"
+     ],
+    "credits": "Pahimar - For the series!",
+    "logoFile": "",
+    "screenshots": [
+    ],
+    "parent":"",
+    "dependencies": [
+    ]
+}
+]
